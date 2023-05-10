@@ -1,0 +1,45 @@
+section{
+ min-height: 100vh;
+  font-family: sans-serif;
+position: relative;
+}
+.image-box{
+    width: 30%;
+    height: 500px;
+}
+.image-box img{
+width: 100%;
+height: 500px;
+}
+.pink{
+    color: rgb(251, 76, 134);
+
+}
+.tur-box{
+    background-color: #00c1b5;
+    
+}
+.red-box{
+    background-color: #e30512;
+
+}
+.blue-box{
+    background-color: #1d3fbb;
+}
+.yellow-box{
+
+    background-color: #ffbe00;
+}
+.orange-box{
+    
+    background-color: #ff651a;
+}
+
+.reveal{
+  
+}
+
+.reveal.active{
+  transform: translateY(0);
+  opacity: 1;
+}
